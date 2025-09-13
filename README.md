@@ -147,7 +147,7 @@ Open [http://localhost:400](http://localhost:400) in your browser to run the bac
 
 Open [http://localhost:5173](http://localhost:5173) in your browser to view the frontend project.
 
-**Team Members**
+##  Team Members
 
 Shreya Das – Brainware University
 <br>
