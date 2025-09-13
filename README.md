@@ -128,7 +128,7 @@ cd backend
 ```
 
 ```bash
-npm run server
+npm run start
 ```
 
 **Frontend Running On:**
