@@ -149,10 +149,11 @@ Open [http://localhost:5173](http://localhost:5173) in your browser to view the 
 
 ## 🤝 Team Members
 
-<ul>Shreya Das – Brainware University
-Krishan Mohan Singh – Brainware University
-Anirban Mondal – Brainware University<br>
-Riya Kumari – CEMK
-Arzoo Aftab – BBIT
+<ul>
+  Shreya Das – Brainware University
+  Krishan Mohan Singh – Brainware University
+  Anirban Mondal – Brainware University<br>
+  Riya Kumari – CEMK
+  Arzoo Aftab – BBIT
 </ul>
 
