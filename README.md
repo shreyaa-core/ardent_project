@@ -143,7 +143,7 @@ npm run dev
 
 Open [http://localhost:5174](http://localhost:5174) in your browser to view the admin dashboard.
 
-Open [http://localhost:400](http://localhost:400) in your browser to run the backend.
+Open [http://localhost:4000](http://localhost:4000) in your browser to run the backend.
 
 Open [http://localhost:5173](http://localhost:5173) in your browser to view the frontend project.
 
